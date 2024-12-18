@@ -34,9 +34,4 @@ Kubernetes is an open-source container orchestration platform designed to automa
 
 ## 🚀 Getting Started
 
-Follow these steps to set up and run a Kubernetes cluster:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
-   cd <repository-name>
